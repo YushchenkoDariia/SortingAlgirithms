@@ -1,0 +1,7 @@
+﻿  SortingAlgorithms.cpp
+D:\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms.cpp(151,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms.cpp(154,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms.cpp(157,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms.cpp(160,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms.cpp(163,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SortingAlgorithms.vcxproj -> D:\SortingAlgorithms\x64\Debug\SortingAlgorithms.exe
